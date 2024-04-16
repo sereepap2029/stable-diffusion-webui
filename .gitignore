@@ -37,4 +37,6 @@ notification.mp3
 /node_modules
 /package-lock.json
 /.coverage*
+/test/test_outputs
+/cache
 tmp-model/
